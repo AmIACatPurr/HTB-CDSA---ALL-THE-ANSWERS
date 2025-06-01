@@ -1,24 +1,24 @@
 # HTB-CDSA---ALL-THE-ANSWERS
 
 Incident Handling Process  
-Cyber Kill Chain 
-Task 1 - weaponize
-Incident Handling Process Overview 
-Task 1 - False
-Preparation Stage (Part 1) 
-Task 1 - jump bag
-Task 2 - true
-Preparation Stage (Part 2)
-Task 1 - DMARC
-Task 2 - true
-Detection & Analysis Stage (Part 1)
-Task 1 - true
-Detection & Analysis Stage (Part 2)
-Task 1 - ioc
-Containment, Eradication, & Recovery Stage
-Task 1 - false
-Post-Incident Activity Stage
-Task 1 - true
+Cyber Kill Chain   
+Task 1 - weaponize  
+Incident Handling Process Overview   
+Task 1 - False  
+Preparation Stage (Part 1)   
+Task 1 - jump bag  
+Task 2 - true  
+Preparation Stage (Part 2)  
+Task 1 - DMARC  
+Task 2 - true  
+Detection & Analysis Stage (Part 1)  
+Task 1 - true  
+Detection & Analysis Stage (Part 2)  
+Task 1 - ioc  
+Containment, Eradication, & Recovery Stage  
+Task 1 - false  
+Post-Incident Activity Stage  
+Task 1 - true  
 
 
 Security Monitoring & SIEM Fundamentals
