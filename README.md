@@ -1,6 +1,6 @@
 # HTB-CDSA---ALL-THE-ANSWERS
 
-Incident Handling Process  
+##Incident Handling Process  
 Cyber Kill Chain   
 Task 1 - weaponize  
 Incident Handling Process Overview   
@@ -21,35 +21,35 @@ Post-Incident Activity Stage
 Task 1 - true  
 
 
-Security Monitoring & SIEM Fundamentals
-Introduction To The Elastic Stack
-Task 1 - anni
-Task 2 - 8
-SOC Definition & Fundamentals
-Task 1 - true
-SIEM Visualization Example 1: Failed Logon Attempts (All Users)
-Task 1 - 2
-SIEM Visualization Example 2: Failed Logon Attempts (Disabled Users)
-Task 1 - interactive
-Task 2 - *admin*
-SIEM Visualization Example 3: Successful RDP Logon Related To Service Accounts
-Task 1 - 192.168.28.130
-SIEM Visualization Example 4: Users Added Or Removed From A Local Group (Within A Specific Timeframe)
-Task 1 - 2023-03-05
-Skills Assessment
-Task 1 - Consult with IT Operations
-Task 2 - Escalate to a Tier 2/3 analyst
-Task 3 - Nothing suspicious
-Task 4 - Escalate to a Tier 2/3 analyst
-Task 5 - Consult with IT Operations
-Task 6 - Consult with IT Operations
-Task 7 - Escalate to a Tier 2/3 analyst
+##Security Monitoring & SIEM Fundamentals  
+Introduction To The Elastic Stack  
+Task 1 - anni  
+Task 2 - 8  
+SOC Definition & Fundamentals  
+Task 1 - true  
+SIEM Visualization Example 1: Failed Logon Attempts (All Users)  
+Task 1 - 2  
+SIEM Visualization Example 2: Failed Logon Attempts (Disabled Users)  
+Task 1 - interactive  
+Task 2 - *admin*  
+SIEM Visualization Example 3: Successful RDP Logon Related To Service Accounts  
+Task 1 - 192.168.28.130  
+SIEM Visualization Example 4: Users Added Or Removed From A Local Group (Within A Specific Timeframe)  
+Task 1 - 2023-03-05  
+Skills Assessment  
+Task 1 - Consult with IT Operations  
+Task 2 - Escalate to a Tier 2/3 analyst  
+Task 3 - Nothing suspicious  
+Task 4 - Escalate to a Tier 2/3 analyst  
+Task 5 - Consult with IT Operations  
+Task 6 - Consult with IT Operations  
+Task 7 - Escalate to a Tier 2/3 analyst  
 
 
-Windows Event Logs & Finding Evil
-Windows Event Logging Basics
-Task 1 - TiWorker.exe
-Task 2 - 10:23:50
+##Windows Event Logs & Finding Evil  
+Windows Event Logging Basics  
+Task 1 - TiWorker.exe  
+Task 2 - 10:23:50  
 Analyzing Evil With Sysmon & Event Logs
 Task 1 - 51F2305DCF385056C68F7CCF5B1B3B9304865CEF1257947D4AD6EF5FAD2E3B13
 Task 2 - 8A3CD3CF2249E9971806B15C75A892E6A44CCA5FF5EA5CA89FDA951CD2C09AA9
